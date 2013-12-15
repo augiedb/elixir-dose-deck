@@ -1,6 +1,8 @@
 # Deck
 
-This is code created for a tutorialu for the ElixirDose.com website.
+This is code created for a tutorial for the ElixirDose.com website.
+
+There are no dependencies.  This code was created with Erland 16B02 and Elixir 0.11.3-dev
 
 ** TODO: **
 
